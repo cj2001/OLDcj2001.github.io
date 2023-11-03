@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Blog Posts"
-    url: /blog-posts/
+  #- title: "Blog Posts"
+  #  url: /blog-posts/
   #- title: "Data Wrangling Projects"
   #  url: /data-wrangling/
   # - title: "About"
