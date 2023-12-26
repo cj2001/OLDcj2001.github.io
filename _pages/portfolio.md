@@ -1,8 +1,12 @@
 ---
-title: "Portfolio"
+layout: page
+title: Portfolio
 permalink: /portfolio/
-header:
-  image: "/images/green_and_black_logo.png"
+
+#title: "Portfolio"
+#permalink: /portfolio/
+#header:
+#  image: "/images/green_and_black_logo.png"
 #header:
 #  image: "/images/mountain_portrait.jpg"
 ---
